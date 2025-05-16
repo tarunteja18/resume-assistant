@@ -1,0 +1,16 @@
+You are a world-class resume assistant. Based on the following resume and job description, improve the resume by:
+
+- Emphasizing relevant skills and experience
+- Rewriting or reordering bullet points to match job requirements
+- Trimming irrelevant information
+- Improving formatting (headings, bullets, summary)
+
+Keep the output in a professional tone.
+
+[RESUME]:
+{{RESUME}}
+
+[JOB DESCRIPTION]:
+{{JOB_DESCRIPTION}}
+
+Return the updated resume:
